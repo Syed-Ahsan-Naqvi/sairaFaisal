@@ -1,0 +1,71 @@
+  .bar1_start{
+    height: 12px;
+    animation: bar1_start 2s ease-in-out forwards ;
+    border-radius: 10px;
+    
+  }
+
+
+  @keyframes bar1_start {
+    0%{
+        width: 0%;
+        background-color: #ef233cf2;
+    }
+    100%{
+        width: 85%;
+        background-color: #ef233cf2;
+    }
+  }
+
+.bar2_start{
+    height: 12px;
+    animation: bar2_start 2s ease-in-out forwards ;
+    border-radius: 10px;
+
+}
+
+@keyframes bar2_start {
+    0%{
+        width: 0%;
+        background-color: #ef233cf2;
+    }
+    100%{
+        width: 95%;
+        background-color: #ef233cf2;
+    }
+}
+
+.bar3_start{
+    height: 12px;
+    animation: bar3_start 2s ease-in-out forwards ;
+    border-radius: 10px;
+
+}
+
+@keyframes bar3_start {
+    0%{
+        width: 0%;
+        background-color: #ef233cf2;
+    }
+    100%{
+        width: 90%;
+        background-color: #ef233cf2;
+    }
+}
+
+.bar4_start{
+    height: 12px;
+    animation: bar4_start 2s ease-in-out forwards ;
+    border-radius: 10px;
+}
+
+@keyframes bar4_start {
+    0%{
+        width: 0%;
+        background-color: #ef233cf2;
+    }
+    100%{
+        width: 85%;
+        background-color: #ef233cf2;
+    }
+}
